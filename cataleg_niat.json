@@ -17,7 +17,7 @@
             "generes":["Acció", "Plataformes", "2D"],
             "plataformes":["Super Nintendo"],
             "preu":33.05,
-            "valoracio":4.6,
+            "valoracio":9.6,
             "estoc":2,
             "disponible":true,
             "dataSortida":"1990-11-21",
@@ -25,11 +25,11 @@
             "opinions": [
                 {
                     "usuari":"randomUser33",
-                    "nota": 4.6
+                    "nota":9.8
                 },
                 {
                     "usuari":"Lolita99",
-                    "nota":4.8
+                    "nota":9.2
                 }
             ]
         },
@@ -39,7 +39,7 @@
             "generes":["Aventura", "Acció", "Trencaclosques", "Fantasia", "3D"],
             "plataformes":["Nintendo 64"],
             "preu":41.31,
-            "valoracio":5.0,
+            "valoracio":9.9,
             "estoc":5,
             "disponible":true,
             "dataSortida":"1998-11-21",
@@ -47,15 +47,15 @@
             "opinions": [
                 {
                     "usuari":"Paco123",
-                    "nota": 5.0
+                    "nota":10.0
                 },
                 {
                     "usuari":"Joniii",
-                    "nota":5.0
+                    "nota":9.9
                 },
                 {
                     "usuari":"nana99",
-                    "nota":5.0
+                    "nota":9.6
                 }
             ]
         },
@@ -65,7 +65,7 @@
             "generes":["Rol", "Aventura", "Fantasia", "JRPG", "3D"],
             "plataformes":["PlayStation"],
             "preu":41.31,
-            "valoracio":4.9,
+            "valoracio":9.9,
             "estoc":23,
             "disponible":true,
             "dataSortida":"1997-01-31",
@@ -73,11 +73,11 @@
             "opinions": [
                 {
                     "usuari":"JuanjoMoreno",
-                    "nota": 4.6
+                    "nota":9.6
                 },
                 {
                     "usuari":"Lolita99",
-                    "nota":4.8
+                    "nota":9.9
                 }
             ]
         },
@@ -87,11 +87,25 @@
             "generes":["Acció", "Ciència ficció", "Shoot'em up"],
             "plataformes":["Nintendo 64"],
             "preu":24.78,
-            "valoracio":4.4,
+            "valoracio":8.8,
             "estoc":12,
             "disponible":true,
             "dataSortida":"1997-04-27",
-            "descripcio":"Un shooter espacial sobre raïls on en Fox McCloud i el seu equip piloten les naus per defensar el sistema Lylat de les forces d'Andross."
+            "descripcio":"Un shooter espacial sobre raïls on en Fox McCloud i el seu equip piloten les naus per defensar el sistema Lylat de les forces d'Andross.",
+            "opinions": [
+                {
+                    "usuari":"55andreu",
+                    "nota":9.8
+                },
+                {
+                    "usuari":"98raki",
+                    "nota":8.0
+                },
+                {
+                    "usuari":"6seis6",
+                    "nota":7.8
+                }
+            ]
         },
         {
             "nom":"The Legend of Zelda: Majora's Mask",
@@ -100,11 +114,25 @@
             "generes":["Aventura", "Acció", "Trencaclosques", "Fantasia", "3D"],
             "plataformes":["Nintendo 64"],
             "preu":41.31,
-            "valoracio":4.8,
+            "valoracio":9,
             "estoc":9,
             "disponible":true,
             "dataSortida":"2000-04-27",
-            "descripcio":"Una continuació fosca i melancòlica d'Ocarina of Time on en Link disposa de 3 dies per evitar que la Lluna caigui sobre el regne de Termina, utilitzant màscares màgiques per transformar-se i resoldre trencaclosques."
+            "descripcio":"Una continuació fosca i melancòlica d'Ocarina of Time on en Link disposa de 3 dies per evitar que la Lluna caigui sobre el regne de Termina, utilitzant màscares màgiques per transformar-se i resoldre trencaclosques.",
+            "opinions": [
+                {
+                    "usuari":"kwjdna",
+                    "nota":8.8
+                },
+                {
+                    "usuari":"simius9",
+                    "nota":10.0
+                },
+                {
+                    "usuari":"zeldaHater",
+                    "nota":3.3
+                }
+            ]
         },
         {
             "nom":"Super Mario 64",
@@ -112,11 +140,25 @@
             "generes":["Acció", "Plataformes", "3D", "Aventura"],
             "plataformes":["Nintendo 64"],
             "preu":41.31,
-            "valoracio":5.0,
+            "valoracio":9.9,
             "estoc":15,
             "disponible":true,
             "dataSortida":"1996-06-23",
-            "descripcio":"El joc que va establir les bases dels plataformes en 3D, destacant per la seva kinestètica i un disseny de nivells totalment innovador."
+            "descripcio":"El joc que va establir les bases dels plataformes en 3D, destacant per la seva kinestètica i un disseny de nivells totalment innovador.",
+            "opinions": [
+                {
+                    "usuari":"mariolover",
+                    "nota":9.9
+                },
+                {
+                    "usuari":"jasuri",
+                    "nota":10.0
+                },
+                {
+                    "usuari":"bakiman",
+                    "nota":9.5
+                }
+            ]
         },
         {
             "nom":"Donkey Kong Country",
@@ -124,11 +166,21 @@
             "generes":["Acció", "Plataformes", "2D"],
             "plataformes":["Super Nintendo", "Game Boy Advance", "Game Boy Color"],
             "preu":33.05,
-            "valoracio":4.7,
+            "valoracio":9.1,
             "estoc":10,
             "disponible":true,
             "dataSortida":"1994-11-21",
-            "descripcio":"Plataformes 2D aclamat pels seus revolucionaris gràfics pre-renderitzats i una banda sonora memorable, on en Donkey Kong i en Diddy Kong lluiten per recuperar la seva reserva de plàtans"
+            "descripcio":"Plataformes 2D aclamat pels seus revolucionaris gràfics pre-renderitzats i una banda sonora memorable, on en Donkey Kong i en Diddy Kong lluiten per recuperar la seva reserva de plàtans",
+            "opinions": [
+                {
+                    "usuari":"elnano",
+                    "nota":9.0
+                },
+                {
+                    "usuari":"fernandoooo",
+                    "nota":9.6
+                }
+            ]
         },
         {
             "nom":"Castlevania: Symphony of the Night",
@@ -136,11 +188,21 @@
             "generes":["Acció", "Plataformes", "Rol", "Metroidvania"],
             "plataformes":["PlayStation", "Sega Saturn"],
             "preu":41.31,
-            "valoracio":4.9,
+            "valoracio":9.7,
             "estoc":0,
             "disponible":false,
             "dataSortida":"1997-10-31",
-            "descripcio":"El joc que va definir i perfeccionar el gènere 'Metroidvania', amb un món interconnectat, exploració profunda i una combinació de plataformes i acció amb elements de rol."
+            "descripcio":"El joc que va definir i perfeccionar el gènere 'Metroidvania', amb un món interconnectat, exploració profunda i una combinació de plataformes i acció amb elements de rol.",
+            "opinions": [
+                {
+                    "usuari":"manitoo",
+                    "nota":9.6
+                },
+                {
+                    "usuari":"shurmanito",
+                    "nota":9.9
+                }
+            ]
         }]
     } 
 }   
