@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ca">
+
+<head>
+    <meta charset="UTF-8">
+    <title>API Jocs - Gamecamps</title>
+    <meta name="description" content="Consulta el catàleg i cerca jocs per codi mitjançant l'API en JSON">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/LOGO.png">
+    <link rel="stylesheet" href="css/estils.css">
+    <script src="js/api_jocs.js" defer></script>
+    <script src="js/tema.js" defer></script>
+</head>
+
+<body>
+    <header class="main-header" id="capcalera">
+        <h1 class="logo" id="logo-botiga">
+            <a href="index.html">
+                <img src="img/LOGO.png" alt="Gamecamps logo">
+            </a>
+        </h1>
+        <nav id="menu-principal">
+            <ul class="menu-list">
+                <li><a href="index.html">Inici</a></li>
+                <li><a href="fitxa.html">Fitxa</a></li>
+                <li><a href="contacte.html">Contacte</a></li>
+                <li><a href="cataleg_json.html">Catàleg JSON</a></li>
+                <li><a href="api_jocs.html">API Jocs</a></li>
+            </ul>
+            <button type="button" id="boto-tema">Mode fosc</button>
+        </nav>
+    </header>
+
+    <main id="contingut-principal">
+        <section id="seccio-cerca">
+            <header>
+                <h2 id="titol-botiga">Catàleg de l'API</h2>
+            </header>
+            <div class="controls-cerca">
+                <label for="cerca-codi">Cerca per codi:</label>
+                <input type="text" id="cerca-codi" placeholder="Ex: JOC-001">
+                <button type="button" id="boto-cerca">Cercar</button>
+            </div>
+            <p id="comptador-resultats">Carregant catàleg...</p>
+            <div id="missatges-estat"></div>
+        </section>
+
+        <section id="jocs" class="cataleg-grid"></section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Gamecamps. Tots els drets reservats.<br>Totes les imatges són lliures de drets d'autor.</p>
+    </footer>
+</body>
+
+</html>
