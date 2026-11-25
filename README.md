@@ -18,3 +18,6 @@ i el JSON per la fitxa del joc.
 
 ### BBDD SQLite
 Les llistes les podriem incloure com a atribut multivaluat o bé creant noves taules que s'hi relacioni amb el joc.
+
+### Canvis entre JSON exportat de BBDD i original
+En l'original apareixen els gèneres i la nota mitjana sobre 10. En l'exportat no apareixen aquestes dades ja que no s'han inclos a la base de dades de cap manera.
