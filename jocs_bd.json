@@ -1,0 +1,82 @@
+[
+    {
+        "codi": "JOC-001",
+        "dataSortida": "1990-11-21",
+        "descripcio": "Clàssic plataformes en 2D on Mario i Luigi exploren un mon ple de monstres, secrets i aventures per salvar la princesa Peach.",
+        "disponible": 1,
+        "estoc": 2,
+        "nom": "Super Mario World",
+        "preu": 33.05,
+        "valoracio": 9.6
+    },
+    {
+        "codi": "JOC-002",
+        "dataSortida": "1998-11-21",
+        "descripcio": "Una aventura revolucionària que va definir el gènere d'acció-aventura en 3D, on el seu protagonista viatja a través del temps per salvar el regne d'Hyrule i derrotar el malvat Ganondorf.",
+        "disponible": 1,
+        "estoc": 5,
+        "nom": "The Legend of Zelda: Ocarina of Time",
+        "preu": 41.31,
+        "valoracio": 9.9
+    },
+    {
+        "codi": "JOC-003",
+        "dataSortida": "1997-01-31",
+        "descripcio": "Un JRPG històric protagonitzat per Cloud Strife i un grup ecoterrorista que lluiten per salvar el món d'una corporació malvada i un enemic antic.",
+        "disponible": 1,
+        "estoc": 23,
+        "nom": "Final Fantasy VII",
+        "preu": 41.31,
+        "valoracio": 9.9
+    },
+    {
+        "codi": "JOC-004",
+        "dataSortida": "1997-04-27",
+        "descripcio": "Un shooter espacial sobre raïls on en Fox McCloud i el seu equip piloten les naus per defensar el sistema Lylat de les forces d'Andross.",
+        "disponible": 1,
+        "estoc": 12,
+        "nom": "Lylat Wars",
+        "preu": 24.78,
+        "valoracio": 8.8
+    },
+    {
+        "codi": "JOC-005",
+        "dataSortida": "2000-04-27",
+        "descripcio": "Una continuació fosca i melancòlica d'Ocarina of Time on en Link disposa de 3 dies per evitar que la Lluna caigui sobre el regne de Termina, utilitzant màscares màgiques per transformar-se i resoldre trencaclosques.",
+        "disponible": 1,
+        "estoc": 9,
+        "nom": "The Legend of Zelda: Majora's Mask",
+        "preu": 41.31,
+        "valoracio": 9.0
+    },
+    {
+        "codi": "JOC-006",
+        "dataSortida": "1996-06-23",
+        "descripcio": "El joc que va establir les bases dels plataformes en 3D, destacant per la seva kinestètica i un disseny de nivells totalment innovador.",
+        "disponible": 1,
+        "estoc": 15,
+        "nom": "Super Mario 64",
+        "preu": 41.31,
+        "valoracio": 9.9
+    },
+    {
+        "codi": "JOC-007",
+        "dataSortida": "1994-11-21",
+        "descripcio": "Plataformes 2D aclamat pels seus revolucionaris gràfics pre-renderitzats i una banda sonora memorable, on en Donkey Kong i en Diddy Kong lluiten per recuperar la seva reserva de plàtans",
+        "disponible": 1,
+        "estoc": 10,
+        "nom": "Donkey Kong Country",
+        "preu": 33.05,
+        "valoracio": 9.1
+    },
+    {
+        "codi": "JOC-008",
+        "dataSortida": "1997-10-31",
+        "descripcio": "El joc que va definir i perfeccionar el gènere 'Metroidvania', amb un món interconnectat, exploració profunda i una combinació de plataformes i acció amb elements de rol.",
+        "disponible": 0,
+        "estoc": 0,
+        "nom": "Castlevania: Symphony of the Night",
+        "preu": 41.31,
+        "valoracio": 9.7
+    }
+]
