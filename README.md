@@ -16,5 +16,5 @@ Llista d'objectes -> `jocs[4].opinions` = `[{"usuari":"laia_pixel", "nota":10}, 
 API/botiga: `jocs.json` retorna un objecte amb el total i una llista (`jocs`) amb tots els jocs, mentre que `/api/jocs/CODI.json` retorna les dades d'un sol joc en concret. La botiga d'activitats anteriors tindria el JSON del catàleg 
 i el JSON per la fitxa del joc.
 
-### BBDD SQLite
+### BBDD SQLite (versió portable)
 Les llistes les podriem incloure com a atribut multivaluat o bé creant noves taules que s'hi relacioni amb el joc.
